@@ -1,3 +1,10 @@
 Lab 2 summary
 
 Here are some thoughts about CentOS vs Ubuntu ...
+Everything works exactly the same in both environments.
+That is all.
+
+Thank you,
+
+Meg
+
